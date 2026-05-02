@@ -37,3 +37,7 @@ htmlcov/
 # Temp
 *.tmp
 *.bak
+
+models/randomforest.pkl
+models/logisticregression.pkl
+models/xgboost.pkl
