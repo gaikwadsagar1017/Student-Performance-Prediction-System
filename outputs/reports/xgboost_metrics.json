@@ -1,0 +1,7 @@
+{
+    "model": "XGBoost",
+    "accuracy": 0.823,
+    "precision": 0.8224662564817729,
+    "recall": 0.823,
+    "f1_score": 0.8215938316923627
+}
